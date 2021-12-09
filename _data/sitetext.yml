@@ -27,7 +27,7 @@ en: &DEFAULT_EN
       - title: "Couple"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "[Child](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "[Child](https://indranirm.github.io/#p1)"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
