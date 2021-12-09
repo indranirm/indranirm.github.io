@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Because Your Mind Matters
+    title: Because your mind matters
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
