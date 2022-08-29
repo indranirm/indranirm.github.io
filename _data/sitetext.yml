@@ -70,8 +70,8 @@ en: &DEFAULT_EN
 
   about:
     title: "About Indrani"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: "my story"
+    body: "I am a trained counsellor from Jadavpur University and have been counselling individuals professionally in a wide area of concerns pertaining to mental health and wellbeing. I have trained under various schools of psychological counselling. I am also voluntarily associated with socially responsible projects in the area of women empowerment, sexual harassment, and psychologically repressed sections of society. I also train and mentor trainers and volunteers in my field of work."
     section: about
 
   clients:
