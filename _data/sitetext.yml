@@ -110,7 +110,7 @@ en: &DEFAULT_EN
       #      icon: fab fa-linkedin-in
       - name: "Indrani Mohanti"
         role: "Clinical Psychologist"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/image1.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
