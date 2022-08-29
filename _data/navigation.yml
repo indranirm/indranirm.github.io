@@ -22,8 +22,8 @@ en: &DEFAULT_EN
     #- title: "Team"
     - title: "About"
       section: team
-    #- title: "Contact"
-    #  section: contact
+    - title: "Contact"
+      section: contact
     #- title: "Theme Source"
     #  url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
