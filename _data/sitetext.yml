@@ -93,9 +93,9 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
+    title: "About Indrani"
     text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: I am a trained counsellor from Jadavpur University and have been counselling individuals professionally in a wide area of concerns pertaining to mental health and wellbeing. I have trained under various schools of psychological counselling. I am also voluntarily associated with socially responsible projects in the area of women empowerment, sexual harassment, and psychologically repressed sections of society. I also train and mentor trainers and volunteers in my field of work.
     section: team
     people:
       #- name: "Kay Garland"
@@ -108,9 +108,9 @@ en: &DEFAULT_EN
       #      icon: fab fa-facebook-f
       #    - url: https://linkedin.com
       #      icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+      - name: "Indrani Mohanti"
+        role: "Clinical Psychologist"
+        image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
